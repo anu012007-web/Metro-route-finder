@@ -1,8 +1,5 @@
 # Delhi Metro Route Finder
 
-**Design and Analysis of Algorithms (DAA) Mini Project**  
-*SRM University Chennai*
-
 A Python-based CLI application that implements **Dijkstra's Algorithm** to find the shortest path between Delhi Metro stations using travel time as edge weights.
 
 ## Features
